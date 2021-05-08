@@ -40,7 +40,9 @@ https://glacial-woodland-41490.herokuapp.com/
 
 ## What it looks like
 
-![](Develop\images\notetaker.gif)
+![](./images/notetaker.gif)
+![](./images/notetaker1.jpg)
+![](./images/notetaker2.jpg)
 
 # Credit
 
